@@ -1,2 +1,2 @@
 # tin-dog
-a dating website for dogs
+a responsive dating website for dogs
